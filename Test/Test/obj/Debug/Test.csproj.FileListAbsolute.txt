@@ -1,0 +1,11 @@
+D:\VisualStudio\Test\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Test\Test\bin\Debug\Test.exe
+D:\VisualStudio\Test\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\VisualStudio\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Test\Test\obj\Debug\Test.Form1.resources
+D:\VisualStudio\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\VisualStudio\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\VisualStudio\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Test\Test\obj\Debug\Test.exe
+D:\VisualStudio\Test\Test\obj\Debug\Test.pdb
